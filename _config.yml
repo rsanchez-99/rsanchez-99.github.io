@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Beginning
 header-img: img/home-bg.png
 email: rsanchez_99@msn.com
 copyright_name: rsanchez-99
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I decided to learn to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rsanchez-99
